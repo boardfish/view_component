@@ -185,6 +185,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [GitHub](https://github.com/) (900+ components used 15k+ times)
 * [Podia](https://www.podia.com/)
 * [City of Paris](https://www.paris.fr/)
+* [Raise.dev](https://raise.dev/)
 
 If your team starts using ViewComponent, [send a pull request](https://github.com/github/view_component/edit/main/docs/README.md) to let us know!
 You can also check out [how various projects use ViewComponent](https://github.com/github/view_component/network/dependents?package_id=UGFja2FnZS0xMDEwNjQxMzYx).
